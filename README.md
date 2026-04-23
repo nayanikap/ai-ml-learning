@@ -1,2 +1,2 @@
 # ai-ml-learning
-This Repo contains all the learnings on AI and ML foundations along with the related app/projects done by me.
+This repository documents my journey transitioning from Backend Engineering to AI Engineering.
